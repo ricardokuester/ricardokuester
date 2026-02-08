@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ricardokuester
 - 👀 I’m interested in swiftui
-- 🌱 I’m currently learning swiftui
+- 🌱 developper of neoColors – ios app
 - 💞️ I’m looking to collaborate on swiftui open source projects
 - 📫 How to reach me : neostudio.ch
